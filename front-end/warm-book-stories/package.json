@@ -4,10 +4,13 @@
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "docx": "^9.1.1",
+    "mammoth": "^1.9.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^4.2.4"
+    "web-vitals": "^4.2.4",
+    "xlsx": "^0.18.5"
   },
   "scripts": {
     "start": "react-scripts start",
